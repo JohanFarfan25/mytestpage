@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bodytech.corp",
+    "sha256_cert_fingerprints":
+    ["95:67:2A:22:20:07:36:C2:81:BD:BC:CB:EF:E7:41:12:2B:B0:9F:6A:E4:06:5E:D1:4A:4F:3C:C7:02:39:B9:C8"]
+  }
+}]
