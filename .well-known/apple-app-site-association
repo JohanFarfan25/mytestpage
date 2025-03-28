@@ -1,11 +1,13 @@
 {
     "applinks": {
-        "apps": [],
         "details": [
             {
-                "appID": "5R2R8238QL.com.bodytech.corp",
-                "paths": [
-                    "/app/*"
+                "appIDs": ["5R2R8238QL.com.bodytech.corp"],
+                "components": [
+                    {
+                        "/": "/app/*",
+                        "comment": "Permite abrir cualquier enlace que comience con /app/."
+                    }
                 ]
             }
         ]
